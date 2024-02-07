@@ -1,0 +1,2 @@
+node_modules
+.env          /* jis file ko git pe push nhi krna hai use git ignore me likh do*/
